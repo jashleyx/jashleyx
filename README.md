@@ -1,4 +1,4 @@
-- 👋 Hello, I'm @jashleyx, and I'm passionate about creating innovative solutions that make a positive impact on the world.
+- 👋 Hello, I'm Jajha, and I'm passionate about creating innovative solutions that make a positive impact on the world.
   
 - 👀 My journey in the world of development is a thrilling adventure where I constantly seek new challenges and opportunities to push the boundaries of what technology can achieve.
 
